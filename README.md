@@ -1,0 +1,4 @@
+image
+=====
+
+blog_image
